@@ -1,0 +1,7 @@
+/home/student/Desktop/PhysXExample/build/CMakeFiles/main.dir
+/home/student/Desktop/PhysXExample/build/CMakeFiles/edit_cache.dir
+/home/student/Desktop/PhysXExample/build/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/PhysXExample/build/libs/CMakeFiles/edit_cache.dir
+/home/student/Desktop/PhysXExample/build/libs/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/PhysXExample/build/libs/PhysX/CMakeFiles/edit_cache.dir
+/home/student/Desktop/PhysXExample/build/libs/PhysX/CMakeFiles/rebuild_cache.dir
